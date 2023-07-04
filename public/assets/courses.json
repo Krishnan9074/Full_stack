@@ -1,0 +1,295 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Web Development 101",
+        "price": 49.99,
+        "description": "A comprehensive introduction to web development.",
+        "category": "Web Development",
+        "image": "https://example.com/web_development_101.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 120
+        }
+      },
+      {
+        "id": 2,
+        "title": "App Development for Beginners",
+        "price": 59.99,
+        "description": "Learn how to build mobile apps from scratch.",
+        "category": "App Development",
+        "image": "https://example.com/app_development_beginners.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 80
+        }
+      },
+      {
+        "id": 3,
+        "title": "Data Science Masterclass",
+        "price": 79.99,
+        "description": "Master the art of data science and analytics.",
+        "category": "Data Science",
+        "image": "https://example.com/data_science_masterclass.jpg",
+        "rating": {
+          "rate": 4.8,
+          "count": 200
+        }
+      },
+      {
+        "id": 4,
+        "title": "Graphic Design Fundamentals",
+        "price": 39.99,
+        "description": "Learn the basics of graphic design and visual communication.",
+        "category": "Design",
+        "image": "https://example.com/graphic_design_fundamentals.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 60
+        }
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Artificial Intelligence",
+        "price": 69.99,
+        "description": "Discover the principles and applications of AI.",
+        "category": "Others",
+        "image": "https://example.com/intro_to_ai.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 150
+        }
+      },
+      {
+        "id": 6,
+        "title": "Full Stack Web Development",
+        "price": 89.99,
+        "description": "Become a skilled full stack web developer.",
+        "category": "Web Development",
+        "image": "https://example.com/full_stack_web_development.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 180
+        }
+      },
+      {
+        "id": 7,
+        "title": "Mobile App Design",
+        "price": 49.99,
+        "description": "Master the art of designing mobile applications.",
+        "category": "Design",
+        "image": "https://example.com/mobile_app_design.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 70
+        }
+      },
+      {
+        "id": 8,
+        "title": "Machine Learning Basics",
+        "price": 59.99,
+        "description": "Learn the fundamentals of machine learning algorithms.",
+        "category": "Data Science",
+        "image": "https://example.com/ml_basics.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 100
+        }
+      },
+      {
+        "id": 9,
+        "title": "UI/UX Design",
+        "price": 69.99,
+        "description": "Master the principles of user interface and user experience design.",
+        "category": "Design",
+        "image": "https://example.com/ui_ux_design.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 120
+        }
+      },
+      {
+        "id": 10,
+        "title": "Python Programming 101",
+        "price": 49.99,
+        "description": "Learn the basics of Python programming language.",
+        "category": "Others",
+        "image": "https://example.com/python_programming_101.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 90
+        }
+      },
+      {
+        "id": 11,
+        "title": "Advanced JavaScript",
+        "price": 69.99,
+        "description": "Take your JavaScript skills to the next level.",
+        "category": "Web Development",
+        "image": "https://example.com/advanced_javascript.jpg",
+        "rating": {
+          "rate": 4.8,
+          "count": 150
+        }
+      },
+      {
+        "id": 12,
+        "title": "Android App Development",
+        "price": 79.99,
+        "description": "Build powerful and scalable Android applications.",
+        "category": "App Development",
+        "image": "https://example.com/android_app_development.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 100
+        }
+      },
+      {
+        "id": 13,
+        "title": "Data Analysis with Python",
+        "price": 59.99,
+        "description": "Learn how to analyze and visualize data using Python.",
+        "category": "Data Science",
+        "image": "https://example.com/data_analysis_python.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 80
+        }
+      },
+      {
+        "id": 14,
+        "title": "Logo Design Workshop",
+        "price": 39.99,
+        "description": "Create memorable and impactful logos.",
+        "category": "Design",
+        "image": "https://example.com/logo_design_workshop.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 50
+        }
+      },
+      {
+        "id": 15,
+        "title": "Introduction to Blockchain",
+        "price": 49.99,
+        "description": "Discover the fundamentals of blockchain technology.",
+        "category": "Others",
+        "image": "https://example.com/intro_to_blockchain.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 110
+        }
+      },
+      {
+        "id": 16,
+        "title": "Responsive Web Design",
+        "price": 59.99,
+        "description": "Create websites that adapt to different devices and screen sizes.",
+        "category": "Web Development",
+        "image": "https://example.com/responsive_web_design.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 70
+        }
+      },
+      {
+        "id": 17,
+        "title": "iOS App Development",
+        "price": 79.99,
+        "description": "Learn how to build iOS apps using Swift.",
+        "category": "App Development",
+        "image": "https://example.com/ios_app_development.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 120
+        }
+      },
+      {
+        "id": 18,
+        "title": "Data Visualization with Tableau",
+        "price": 69.99,
+        "description": "Create interactive and compelling visualizations with Tableau.",
+        "category": "Data Science",
+        "image": "https://example.com/data_visualization_tableau.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 90
+        }
+      },
+      {
+        "id": 19,
+        "title": "Logo Design Principles",
+        "price": 39.99,
+        "description": "Master the principles of effective logo design.",
+        "category": "Design",
+        "image": "https://example.com/logo_design_principles.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 60
+        }
+      },
+      {
+        "id": 20,
+        "title": "Introduction to Cybersecurity",
+        "price": 49.99,
+        "description": "Learn the basics of cybersecurity and protect yourself online.",
+        "category": "Others",
+        "image": "https://example.com/intro_to_cybersecurity.jpg",
+        "rating": {
+          "rate": 4.1,
+          "count": 80
+        }
+      },
+      {
+        "id": 21,
+        "title": "Front-End Web Development",
+        "price": 69.99,
+        "description": "Build user-friendly and responsive websites.",
+        "category": "Web Development",
+        "image": "https://example.com/front_end_web_development.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 150
+        }
+      },
+      {
+        "id": 22,
+        "title": "Game Development with Unity",
+        "price": 79.99,
+        "description": "Create your own games using the Unity game engine.",
+        "category": "App Development",
+        "image": "https://example.com/game_development_unity.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 100
+        }
+      },
+      {
+        "id": 23,
+        "title": "Statistical Analysis with R",
+        "price": 59.99,
+        "description": "Perform statistical analysis using the R programming language.",
+        "category": "Data Science",
+        "image": "https://example.com/statistical_analysis_r.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 70
+        }
+      },
+      {
+        "id": 24,
+        "title": "Typography Basics",
+        "price": 29.99,
+        "description": "Learn the fundamentals of typography and font selection.",
+        "category": "Design",
+        "image": "https://example.com/typography_basics.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 90
+        }
+      }
+    ]
+}
+
+  
+  
